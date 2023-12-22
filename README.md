@@ -1,3 +1,3 @@
-# Hello WebGPU
+# WebGPU Academy
 
 ---
